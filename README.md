@@ -49,10 +49,8 @@ docker-compose up
 
 ### Screenshot: Docker Compose Output
 
-```
 ![image](https://github.com/user-attachments/assets/4f71a261-a9e6-45ed-9b92-cd7ed967b66f)
 ![image](https://github.com/user-attachments/assets/2a34b996-d811-4a21-9444-db6b4d4a9a5b)
-```
 
 
 ## Services and Endpoints
