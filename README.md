@@ -13,7 +13,7 @@ Each service is containerized using Docker and orchestrated with Docker Compose 
 ## Project Structure
 
 ```
-submission/
+Microservices/
 ├── user-service/
 │   └── Dockerfile
 ├── product-service/
