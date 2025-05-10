@@ -111,8 +111,7 @@ docker-compose up
 
 ### Screenshot: Testing Output
 
-```
-Seeperate Endpoints:
+Separate Endpoints:
 ![image](https://github.com/user-attachments/assets/b6bc6b05-f4fb-489e-895c-237e8df9aecb)
 ![image](https://github.com/user-attachments/assets/9c5a3c62-2a04-4b0e-9f70-bf78221cebd8)
 ![image](https://github.com/user-attachments/assets/b3558d90-32ab-4e32-8916-d9f0666ea573)
@@ -122,7 +121,6 @@ Accessing through gateway service:
 ![image](https://github.com/user-attachments/assets/2f164a95-1926-464b-89f3-803296ec56a0)
 ![image](https://github.com/user-attachments/assets/b90dc74e-5a37-46d0-b780-8c8d084f673b)
 
-```
 
 ## Common Troubleshooting
 
